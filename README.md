@@ -1,1 +1,1 @@
-![Image text](https://raw.github.com/Meikong-Cui/repositpry/master/cgi/image/model.png)
+![Image text](https://raw.github.com/Meikong-Cui/repository/master/cgi/image/model.png)
