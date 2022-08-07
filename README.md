@@ -10,3 +10,4 @@ This is my cgi coursework, the topic is make a 10 seconds video about robotic Ol
 The following is some houdini effects learned from online tutorials.
 
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/rain.jpeg)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/flower.png)
