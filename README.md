@@ -4,3 +4,9 @@ This is my cgi coursework, the topic is make a 10 seconds video about robotic Ol
 
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/model.png)
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/animate.png)
+
+# Houdini exercise
+
+The following is some houdini effects learned from online tutorials.
+
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/rain.jpg)
