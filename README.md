@@ -7,7 +7,7 @@ This is my cgi coursework, the topic is make a 10 seconds video about robotic Ol
 
 # Houdini exercise
 
-The following is some houdini ideas learned from online tutorials.
+The following is some houdini ideas learned from online tutorials: https://www.bilibili.com/video/BV1554y1J7oF?share_source=copy_web 
 
 Currently there are 10 videos in the main page. More pictures are under 'image' folder, you can also find them below.
 
