@@ -1,1 +1,15 @@
-example image
+## Example image
+
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/collide.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/falloff_growth.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/feather.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/generating.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/moving_mountain.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/partical_exercise.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/path.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/pcgrow.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/pcgrow2.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/shatter.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/vdb.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/waterdrop.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/windfield.png)
