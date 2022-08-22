@@ -9,5 +9,7 @@ This is my cgi coursework, the topic is make a 10 seconds video about robotic Ol
 
 The following is some houdini ideas learned from online tutorials.
 
+More pictures under image folder!!!
+
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/rain.jpeg)
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/flower.png)
