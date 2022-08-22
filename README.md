@@ -9,7 +9,23 @@ This is my cgi coursework, the topic is make a 10 seconds video about robotic Ol
 
 The following is some houdini ideas learned from online tutorials.
 
-Currently there are 10 videos in the main page. More pictures are under 'image' folder!!!
+Currently there are 10 videos in the main page. More pictures are under 'image' folder, you can also find them below.
 
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/rain.jpeg)
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/flower.png)
+
+## Seperation Line 
+
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/collide.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/falloff_growth.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/generating.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/moving_mountain.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/partical_exercise.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/path.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/pcgrow.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/pcgrow2.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/shatter.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/vdb.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/waterdrop.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/windfield.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/feather.png)
