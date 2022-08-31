@@ -13,6 +13,7 @@ Currently there are 10 videos in the main page. More pictures are under 'image' 
 
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/rain.jpeg)
 ![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/flower.png)
+![Image text](https://github.com/Meikong-Cui/cgi/blob/main/image/sandman.png)
 
 ## Seperation Line 
 
